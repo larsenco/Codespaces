@@ -1,2 +1,2 @@
 # Codespaces
-aaaaaaaaaa
+System.out.println("Hello!");
